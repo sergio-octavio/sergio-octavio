@@ -1,13 +1,7 @@
 ![https://github.com/sergio-octavio](https://github.com/sergio-octavio/SergioOctavioMancebo/blob/main/portada-github.png)
 
 # Hola, mi nombre es Sergio Octavio Mancebo 👋
-### Ingeniero Software
-
-
-![GitHub Followers](https://img.shields.io/github/followers/sergio-octavio?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/sergio-octavio?style=social)
-
-Soy Ingeniero de Software y un apasionado del emprendimiento. 
+### Soy Ingeniero Software, un apasionado del emprendimiento y de la creación de nuevos proyectos. 
 
 Desde siempre me ha gustado la tecnología y la creación de proyectos tanto software como personales. 
 
