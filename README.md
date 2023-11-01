@@ -34,7 +34,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Web](https://img.shields.io/badge/Web-Sergio.Octavio.io-FFCA28?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101011)](https://sergio-octavio.github.io)
+[![Web](https://img.shields.io/badge/Web-SergioOctavio.io-FFCA28?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101011)](https://sergio-octavio.github.io)
 [![Link](https://img.shields.io/badge/Link_Site-octaviobikes.com-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://octaviobikes.com)
 [![Link](https://img.shields.io/badge/Link_Site-FitnessOctavio-FFCA28?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101011)](https://fitnessoctavio.github.io)
 
