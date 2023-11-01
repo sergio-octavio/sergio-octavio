@@ -45,5 +45,4 @@ Y alguna más...
 
 ## Contacto y apoyo:
 
-![Email](https://img.shields.io/badge/info.sergiooctaviomancebo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
-
+[![Web](https://img.shields.io/badge/info.sergiooctaviomancebo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101011)](https://sergio-octavio.github.io)
