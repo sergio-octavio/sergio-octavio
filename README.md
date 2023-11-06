@@ -1,4 +1,4 @@
-![https://github.com/sergio-octavio](https://github.com/sergio-octavio/SergioOctavioMancebo/blob/main/portada-github.png)
+![https://github.com/sergio-octavio](https://github.com/sergio-octavio/SergioOctavioMancebo/blob/main/portada.png)
 
 # Hola, mi nombre es Sergio Octavio Mancebo 👋
 ### Soy Ingeniero Software, un apasionado del emprendimiento y de la creación de nuevos proyectos. 
